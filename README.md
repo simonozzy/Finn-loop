@@ -2,6 +2,7 @@
 
 Three Claude Code skills that turn Linear + GitHub into a small, human-gated
 AI software factory:
+[Tutorial here: https://www.youtube.com/watch?v=FRGLToHAtgc ]
 
 **idea → `/finn-spec` interviews you and files the issue → you label it
 `agent-ready` → `/finn-build` claims it and opens a PR → `/finn-review` posts
